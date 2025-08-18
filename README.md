@@ -11,14 +11,14 @@ Launching Email Sender...
 # Installation
 ### 🐧 **Linux Installation**
 
-<pre> <code>
-  git clone https://github.com/amir-rhmati/email-sender.git<code> <pre>
-    
-
+<pre>
+<code>
+git clone https://github.com/amir-rhmati/email-sender.git
 cd email-sender
 pip install -r requirements.txt
 python sender_rahmati.py
-
+<code>
+<pre>
 
 ### 🐧 **Termux Installation**
 <pre>
