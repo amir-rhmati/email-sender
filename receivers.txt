@@ -1,0 +1,3 @@
+List of destination emails
+amir@gmail.com
+ami1r@gmail.com
