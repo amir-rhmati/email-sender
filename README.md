@@ -8,7 +8,14 @@
 
 Launching Email Sender...
 
-# Installation
+# file name 
+### emails.txt
+**list is emails and password to app password and seve**
+### receivers.txt
+**Unlimited number of destination email lists**
+### results.txt
+**At the end of the operation, you can see the results of all successful and unsuccessful submissions from this file.**
+
 ### 🐧 **Linux Installation**
 <pre>
 <code>
