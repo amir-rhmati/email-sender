@@ -4,7 +4,7 @@
 
 ---
 <img width="401" height="212" alt="rahmati" src="https://github.com/user-attachments/assets/72977120-d070-4036-95e9-bd4eb70f2c79" />
-![rah](https://github.com/user-attachments/assets/e06201f3-86c7-49eb-9f48-7195a4462b68)
+<img width="401" height="212" alt="rah" src="https://github.com/user-attachments/assets/e06201f3-86c7-49eb-9f48-7195a4462b68" />
 
 Launching Email Sender...
 
