@@ -39,6 +39,8 @@ python sender_rahmati.py
 </code>
 </pre>
 
+###  **windows Installation**
+**to folder Windows and run sender.exe and edit file receivers.txt / emails.txt**
 # 🔗 Contact & More
 
 **Telegram: @amir_Gods**
